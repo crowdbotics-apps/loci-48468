@@ -69,6 +69,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [terms-and-conditions]()
 - [faq]()
+- [react-native-address-selection-google-autocomplete](modules/address-selection-autocomplete)
 
 # Getting started: Frontend
 
