@@ -23,6 +23,7 @@
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/qr-code": "file:./modules/qr-code/",
     "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
+    "@modules/terms-and-conditions-webview": "file:./modules/terms-and-conditions-webview/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-community/geolocation": "2.1.0",
