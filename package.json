@@ -18,6 +18,7 @@
     "@modules/address-selection-autocomplete": "file:./modules/address-selection-autocomplete/",
     "@modules/appointment": "file:./modules/appointment/",
     "@modules/appointment-local": "file:./modules/appointment-local/",
+    "@modules/articles": "file:./modules/articles/",
     "@modules/faq": "file:./modules/faq",
     "@modules/image-gallery": "file:./modules/image-gallery/",
     "@modules/maps": "file:./modules/maps/",
